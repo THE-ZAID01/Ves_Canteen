@@ -1,0 +1,16 @@
+{
+  "name": "queuemanager",
+  "version": "1.0.0",
+  "description": "A full-stack web application for digitizing canteen ordering and queue management at VES college.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docx": "^9.5.3",
+    "pdfkit": "^0.17.2"
+  }
+}
